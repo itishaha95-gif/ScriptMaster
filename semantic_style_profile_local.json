@@ -1,0 +1,3287 @@
+{
+  "scripts_analyzed": 100,
+  "dominant_hook_types": [
+    [
+      "problem-solution",
+      3
+    ],
+    [
+      "common experience hook",
+      2
+    ],
+    [
+      "unexpected innovation announcement",
+      2
+    ],
+    [
+      "breaking_news",
+      2
+    ],
+    [
+      "unexpected event",
+      1
+    ],
+    [
+      "minor technical anomaly as catalyst for critical security event",
+      1
+    ],
+    [
+      "Conversational hook with immediate topic introduction",
+      1
+    ],
+    [
+      "direct claim",
+      1
+    ],
+    [
+      "concrete examples with startling comparisons",
+      1
+    ],
+    [
+      "Conversational business concept hook",
+      1
+    ]
+  ],
+  "dominant_tones": [
+    [
+      "conversational",
+      55
+    ],
+    [
+      "enthusiastic",
+      41
+    ],
+    [
+      "urgent",
+      19
+    ],
+    [
+      "confident",
+      18
+    ],
+    [
+      "informative",
+      13
+    ],
+    [
+      "persuasive",
+      10
+    ],
+    [
+      "optimistic",
+      8
+    ],
+    [
+      "informal",
+      8
+    ],
+    [
+      "practical",
+      8
+    ],
+    [
+      "casual",
+      8
+    ]
+  ],
+  "common_transitions": [
+    [
+      "contrast",
+      43
+    ],
+    [
+      "causal",
+      24
+    ],
+    [
+      "temporal",
+      11
+    ],
+    [
+      "contrastive",
+      11
+    ],
+    [
+      "additive",
+      11
+    ],
+    [
+      "sequential",
+      9
+    ],
+    [
+      "consequence",
+      7
+    ],
+    [
+      "addition",
+      6
+    ],
+    [
+      "example",
+      5
+    ],
+    [
+      "explanatory",
+      5
+    ]
+  ],
+  "common_rhetorical_devices": [
+    [
+      "contrast",
+      60
+    ],
+    [
+      "repetition",
+      28
+    ],
+    [
+      "metaphor",
+      23
+    ],
+    [
+      "analogy",
+      20
+    ],
+    [
+      "hyperbole",
+      13
+    ],
+    [
+      "direct address",
+      11
+    ],
+    [
+      "rhetorical question",
+      11
+    ],
+    [
+      "anecdote",
+      9
+    ],
+    [
+      "allusion",
+      6
+    ],
+    [
+      "examples",
+      5
+    ]
+  ],
+  "common_endings": [
+    [
+      "call to action",
+      5
+    ],
+    [
+      "rhetorical question",
+      5
+    ],
+    [
+      "direct call to action",
+      3
+    ],
+    [
+      "visionary and optimistic",
+      1
+    ],
+    [
+      "successful resolution with critical contingency",
+      1
+    ],
+    [
+      "Declarative conclusion",
+      1
+    ],
+    [
+      "humorous twist",
+      1
+    ],
+    [
+      "personal reflection with forward-looking insight",
+      1
+    ],
+    [
+      "balanced conclusion with a caveat",
+      1
+    ],
+    [
+      "dramatic punchline",
+      1
+    ]
+  ],
+  "script_analyses": [
+    {
+      "hook_type": "unexpected event",
+      "tone": [
+        "persuasive",
+        "optimistic",
+        "forward-looking"
+      ],
+      "sentence_rhythm": "short and punchy with occasional complex sentences for emphasis",
+      "transitions": [
+        "sequential",
+        "contrast",
+        "causal",
+        "scenario-setting"
+      ],
+      "rhetorical_devices": [
+        "rhetorical questions",
+        "analogy",
+        "metaphor",
+        "contrast"
+      ],
+      "explanation_style": "accessibility-focused with concrete examples",
+      "structure": [
+        "hook",
+        "future scenario",
+        "current state",
+        "solution approach",
+        "implications"
+      ],
+      "ending_type": "visionary and optimistic",
+      "summary": "The writing employs an unexpected event hook to introduce a near-future neurotech application, uses accessible analogies and concrete examples for explanation, and concludes with a visionary optimistic perspective on the integration of thought-to-text technology.",
+      "script_id": 1
+    },
+    {
+      "hook_type": "minor technical anomaly as catalyst for critical security event",
+      "tone": [
+        "urgent",
+        "informative",
+        "suspenseful"
+      ],
+      "sentence_rhythm": "punchy sentences with escalating tension",
+      "transitions": [
+        "causal",
+        "temporal",
+        "contrastive"
+      ],
+      "rhetorical_devices": [
+        "conditional statement",
+        "metaphor",
+        "juxtaposition"
+      ],
+      "explanation_style": "step-by-step with simplified technical details",
+      "structure": [
+        "chronological",
+        "problem-solution"
+      ],
+      "ending_type": "successful resolution with critical contingency",
+      "summary": "A concise narrative style beginning with a minor technical observation, building suspense through step-by-step technical explanation, and concluding with the critical significance of a small anomaly in averting a major security threat.",
+      "script_id": 2
+    },
+    {
+      "hook_type": "Conversational hook with immediate topic introduction",
+      "tone": [
+        "conversational",
+        "explanatory",
+        "reflective",
+        "informal"
+      ],
+      "sentence_rhythm": "Short, direct sentences with rhythmic progression from general to specific",
+      "transitions": [
+        "contrast",
+        "cause-effect",
+        "sequential"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "repetition",
+        "contrast",
+        "cause and effect"
+      ],
+      "explanation_style": "Concrete example to illustrate abstract concept",
+      "structure": [
+        "introduction",
+        "analogy",
+        "contrast",
+        "cause-effect explanation",
+        "conclusion"
+      ],
+      "ending_type": "Declarative conclusion",
+      "summary": "Conversational style using a concrete analogy to explain how abstractions reduce complexity and lead to startup emergence.",
+      "script_id": 3
+    },
+    {
+      "hook_type": "direct claim",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "playful"
+      ],
+      "sentence_rhythm": "short and punchy with occasional longer sentences for explanation",
+      "transitions": [
+        "contrast",
+        "additive",
+        "continuation",
+        "appeal to reason"
+      ],
+      "rhetorical_devices": [
+        "examples",
+        "contrast",
+        "hyperbole",
+        "appeal to reason"
+      ],
+      "explanation_style": "simple and concrete with minimal technical jargon",
+      "structure": [
+        "hook",
+        "product description",
+        "addressing objections",
+        "benefits expansion",
+        "humorous twist"
+      ],
+      "ending_type": "humorous twist",
+      "summary": "Conversational and enthusiastic tone with short, direct sentences that introduce a novel product and its benefits, using examples and contrast to address potential skepticism, ending with a humorous hyperbolic claim.",
+      "script_id": 4
+    },
+    {
+      "hook_type": "common experience hook",
+      "tone": [
+        "conversational",
+        "informal",
+        "confident",
+        "practical",
+        "reflective",
+        "slightly humorous"
+      ],
+      "sentence_rhythm": "Conversational, short sentences with strategic pauses and repetitions for emphasis",
+      "transitions": [
+        "conversational interjections",
+        "contrast",
+        "personal reflection pivot"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "example",
+        "repetition",
+        "contrast",
+        "metaphor"
+      ],
+      "explanation_style": "Practical, relatable examples with personal application",
+      "structure": [
+        "problem observation",
+        "model introduction",
+        "real-world example",
+        "team application",
+        "personal reflection"
+      ],
+      "ending_type": "personal reflection with forward-looking insight",
+      "summary": "The transcript employs a conversational tone to introduce a simple multitasking model via a toilet analogy, validated by Steve Jobs' product strategy, and extends it to team dynamics with a reflective conclusion on prioritizing key projects.",
+      "script_id": 5
+    },
+    {
+      "hook_type": "concrete examples with startling comparisons",
+      "tone": [
+        "factual",
+        "conversational",
+        "balanced"
+      ],
+      "sentence_rhythm": "short and punchy with strategic longer sentences for emphasis",
+      "transitions": [
+        "contrastive",
+        "additive",
+        "illustrative",
+        "temporal"
+      ],
+      "rhetorical_devices": [
+        "metaphor",
+        "analogy",
+        "repetition",
+        "contrast",
+        "data-driven argument",
+        "hypothetical"
+      ],
+      "explanation_style": "step-by-step scaling from specific examples to broader contexts",
+      "structure": [
+        "hook with concrete examples",
+        "historical and projected data",
+        "efficiency nuance",
+        "comparisons to other water users",
+        "scaling to entertainment",
+        "recycling note",
+        "concluding perspective"
+      ],
+      "ending_type": "balanced conclusion with a caveat",
+      "summary": "The style uses relatable water comparisons to engage the audience, systematically scales from individual products to global data centers, emphasizes efficiency gains, and concludes that AI water usage is not the worst environmental issue.",
+      "script_id": 6
+    },
+    {
+      "hook_type": "Conversational business concept hook",
+      "tone": [
+        "informal",
+        "humorous",
+        "authoritative"
+      ],
+      "sentence_rhythm": "Short and punchy with rhythmic repetition",
+      "transitions": [
+        "causal",
+        "sequential"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "hyperbole"
+      ],
+      "explanation_style": "Practical and analogical",
+      "structure": [
+        "problem-solution",
+        "cause-effect"
+      ],
+      "ending_type": "dramatic punchline",
+      "summary": "Conversational style using simple analogies to explain team management principles with a cause-effect structure, emphasizing consequences through rhythmic repetition and ending with a hyperbolic statement for impact.",
+      "script_id": 7
+    },
+    {
+      "hook_type": "statistic-driven problem statement",
+      "tone": [
+        "conversational",
+        "direct",
+        "urgent",
+        "persuasive",
+        "confident"
+      ],
+      "sentence_rhythm": "fast-paced with short sentences and occasional longer explanatory clauses",
+      "transitions": [
+        "And",
+        "But here's the thing",
+        "Plus",
+        "If you want to continue"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "embedded question",
+        "repetition",
+        "contrast",
+        "example"
+      ],
+      "explanation_style": "practical, experience-based, avoids technical jargon",
+      "structure": [
+        "problem statement",
+        "personal experience",
+        "addressing skepticism",
+        "offer details",
+        "call to action"
+      ],
+      "ending_type": "call to action with reassurance of low cost",
+      "summary": "Conversational and urgent sales pitch using personal experience to address AI skepticism, emphasizing cost-effective trial with a time-limited offer to encourage immediate action",
+      "script_id": 8
+    },
+    {
+      "hook_type": "challenge to common misconception about complexity",
+      "tone": [
+        "conversational",
+        "confident",
+        "provocative"
+      ],
+      "sentence_rhythm": "short and direct sentences with occasional explanatory elaboration",
+      "transitions": [
+        "why",
+        "so",
+        "however"
+      ],
+      "rhetorical_devices": [
+        "metaphor",
+        "anecdote",
+        "contrast",
+        "repetition"
+      ],
+      "explanation_style": "practical, example-driven, direct",
+      "structure": [
+        "problem-solution",
+        "example-driven",
+        "consequence-focused"
+      ],
+      "ending_type": "conclusive statement",
+      "summary": "Conversational style that challenges complexity as a solution by advocating for simplicity through practical examples and personal anecdotes.",
+      "script_id": 9
+    },
+    {
+      "hook_type": "Direct, provocative claim with promise of breakthrough",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "confident",
+        "slightly informal"
+      ],
+      "sentence_rhythm": "Fast-paced with short and medium-length sentences for impact and clarity",
+      "transitions": [
+        "Sequential (step-by-step)",
+        "Conversational phrases (e.g., 'So', 'Now', 'Okay')",
+        "Emphasis on action"
+      ],
+      "rhetorical_devices": [
+        "Metaphor (algorithm hole)",
+        "Repetition (of 'broken')",
+        "Direct address (to audience)",
+        "Emphatic adverbs (e.g., 'absolutely', 'incredibly')"
+      ],
+      "explanation_style": "Demonstrative (live step-by-step process), practical, and immediate",
+      "structure": [
+        "Hook",
+        "Demonstration of the hack",
+        "Results and validation",
+        "Implications and value",
+        "Forward-looking call to action"
+      ],
+      "ending_type": "Forward-looking, community-oriented, optimistic",
+      "summary": "High-energy conversational style using live demonstration to explain a novel AI hack with emphasis on simplicity and impact, concluding with audience engagement and future experimentation",
+      "script_id": 10
+    },
+    {
+      "hook_type": "Benefit-driven comparison",
+      "tone": [
+        "Conversational",
+        "Informative",
+        "Slightly skeptical"
+      ],
+      "sentence_rhythm": "Short and direct with occasional elaboration",
+      "transitions": [
+        "Additive",
+        "Contrastive",
+        "Sequential",
+        "Conversational"
+      ],
+      "rhetorical_devices": [
+        "Comparison",
+        "Contrast",
+        "Concession"
+      ],
+      "explanation_style": "Direct and feature-focused",
+      "structure": [
+        "Benefit hook",
+        "Constraints and features",
+        "Alternative solution",
+        "Analogy",
+        "Technical justification"
+      ],
+      "ending_type": "Technical justification conclusion",
+      "summary": "Conversational style using benefit-driven hooks and analogies to explain ad-supported gaming services, with skeptical tone and technical context for feasibility.",
+      "script_id": 11
+    },
+    {
+      "hook_type": "recent breakthrough",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "simplified"
+      ],
+      "sentence_rhythm": "dynamic",
+      "transitions": [
+        "problem-solution",
+        "contrast",
+        "example",
+        "implications"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "question",
+        "hypothetical",
+        "contrast"
+      ],
+      "explanation_style": "analogical",
+      "structure": [
+        "problem introduction",
+        "simplified explanation",
+        "historical context",
+        "breakthrough",
+        "implications"
+      ],
+      "ending_type": "incomplete",
+      "summary": "Enthusiastic, conversational style simplifying complex mathematics using analogies and rhetorical questions to present a recent breakthrough with a humorous trailing fragment.",
+      "script_id": 12
+    },
+    {
+      "hook_type": "provocative statement",
+      "tone": [
+        "confident",
+        "assertive",
+        "enthusiastic"
+      ],
+      "sentence_rhythm": "short, direct, with occasional emphatic clauses",
+      "transitions": [
+        "contrast",
+        "revelation",
+        "example",
+        "personal example"
+      ],
+      "rhetorical_devices": [
+        "metaphor",
+        "analogy",
+        "repetition",
+        "direct address"
+      ],
+      "explanation_style": "concise, anecdotal, with practical examples",
+      "structure": [
+        "problem-solution",
+        "concept expansion",
+        "anecdotal evidence",
+        "process invitation"
+      ],
+      "ending_type": "forward-looking promise",
+      "summary": "Confident speaker uses short, direct sentences to present a problem-solution about success, then expands on content's role with concept examples, and concludes with a promise to detail the process.",
+      "script_id": 13
+    },
+    {
+      "hook_type": "List of specific achievements for immediate impact",
+      "tone": [
+        "Enthusiastic",
+        "Confident",
+        "Conversational"
+      ],
+      "sentence_rhythm": "Short, rapid sentences with high energy",
+      "transitions": [
+        "Example enumeration",
+        "Technical elaboration",
+        "Contrast statement"
+      ],
+      "rhetorical_devices": [
+        "List of achievements",
+        "Contrast",
+        "Quantitative comparisons",
+        "Analogies"
+      ],
+      "explanation_style": "Practical benefits-focused technical explanation with minimal jargon",
+      "structure": [
+        "Achievement listing",
+        "Technical specifications",
+        "Perception shift",
+        "Call to action"
+      ],
+      "ending_type": "Specific deadline call to action",
+      "summary": "The writing style is energetic and conversational, using a list of concrete achievements to hook the reader, then transitions into technical details that emphasize cost efficiency and open-source parity with frontier models, culminating in a clear call to action with an explicit release date.",
+      "script_id": 14
+    },
+    {
+      "hook_type": "new hardware product announcement",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "informative"
+      ],
+      "sentence_rhythm": "short sentences with compound feature lists and occasional detailed clauses",
+      "transitions": [
+        "additive",
+        "clarifying emphasis",
+        "conversational shift"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "introduction via 'meet'"
+      ],
+      "explanation_style": "feature-centric with purpose explanation",
+      "structure": [
+        "hook",
+        "feature listing",
+        "context clarification",
+        "price and call to action"
+      ],
+      "ending_type": "question-driven call to action",
+      "summary": "Conversational product announcement that lists key features and benefits, includes context about product separation, and ends with a rhetorical question to prompt reader engagement and purchase consideration.",
+      "script_id": 15
+    },
+    {
+      "hook_type": "bold declaration",
+      "tone": [
+        "enthusiastic",
+        "conversational"
+      ],
+      "sentence_rhythm": "fast-paced with short, punchy sentences",
+      "transitions": [
+        "temporal",
+        "causal",
+        "contrast",
+        "demonstrative"
+      ],
+      "rhetorical_devices": [
+        "exclamations",
+        "direct address",
+        "anecdotal evidence",
+        "contrast",
+        "repetition"
+      ],
+      "explanation_style": "practical, step-by-step demonstration with real-world examples",
+      "structure": [
+        "experiment demonstration",
+        "result interpretation",
+        "confounder address",
+        "broader implications"
+      ],
+      "ending_type": "call-to-action with sign-off",
+      "summary": "Energetic and conversational presentation of a creative experiment using health data and Codex, with step-by-step demonstration, real-world examples, and a call to action for further exploration.",
+      "script_id": 16
+    },
+    {
+      "hook_type": "reward-driven action hook",
+      "tone": [
+        "enthusiastic",
+        "persuasive",
+        "urgent",
+        "conversational",
+        "promotional"
+      ],
+      "sentence_rhythm": "Short, energetic sentences emphasizing immediacy and simplicity",
+      "transitions": [
+        "sequential",
+        "emphatic",
+        "conclusive"
+      ],
+      "rhetorical_devices": [
+        "specific numbers for credibility",
+        "social proof",
+        "repeated call to action",
+        "contrast between simplicity and complexity",
+        "direct address"
+      ],
+      "explanation_style": "User-centric, benefit-focused, minimal jargon, step-by-step simplicity",
+      "structure": [
+        "problem-solution framework",
+        "social proof integration",
+        "deadline-driven call to action"
+      ],
+      "ending_type": "call to action with positive reinforcement and partnership acknowledgment",
+      "summary": "High-energy promotional style leveraging immediate rewards, social proof, and clear steps to drive urgency and action, structured around a problem-solution narrative with a deadline-driven call to action.",
+      "script_id": 17
+    },
+    {
+      "hook_type": "personal discovery announcement",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "approachable"
+      ],
+      "sentence_rhythm": "short and direct with conversational pauses",
+      "transitions": [
+        "example-based",
+        "demonstration progression",
+        "contrast",
+        "group-focused"
+      ],
+      "rhetorical_devices": [
+        "question",
+        "analogy",
+        "hypothetical",
+        "contrast"
+      ],
+      "explanation_style": "demonstration-based with real-world examples",
+      "structure": [
+        "hook",
+        "concept explanation",
+        "interactive demonstration",
+        "benefit breakdown",
+        "conclusion"
+      ],
+      "ending_type": "conclusive with partnership acknowledgment and friendly sign-off",
+      "summary": "A conversational, enthusiastic explanation of AI tools' role in creative processes demonstrated through real-time examples, emphasizing human-centric control and dual audience benefits.",
+      "script_id": 18
+    },
+    {
+      "hook_type": "feature-focused hook",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "optimistic"
+      ],
+      "sentence_rhythm": "Short, active sentences with rhythmic progression from specific examples to broader implications",
+      "transitions": [
+        "additive",
+        "topic-shift",
+        "causal",
+        "contrastive"
+      ],
+      "rhetorical_devices": [
+        "enumeration",
+        "hypothetical",
+        "comparative",
+        "slang"
+      ],
+      "explanation_style": "Concrete examples with immediate implications",
+      "structure": [
+        "hook",
+        "feature explanation",
+        "sharing capability",
+        "future implications",
+        "caution",
+        "concluding positive note"
+      ],
+      "ending_type": "optimistic forward-looking conclusion",
+      "summary": "Conversational tech review that hooks with a specific feature, uses relatable examples, and transitions to broader implications with a balanced optimistic conclusion",
+      "script_id": 19
+    },
+    {
+      "hook_type": "bold claim",
+      "tone": [
+        "enthusiastic",
+        "technical",
+        "accessible"
+      ],
+      "sentence_rhythm": "active and concise",
+      "transitions": [
+        "explanatory",
+        "comparative",
+        "consequential"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "enumeration"
+      ],
+      "explanation_style": "cause-and-effect with concrete examples",
+      "structure": [
+        "introduction with claim",
+        "mechanism explanation",
+        "capability demonstration",
+        "implications"
+      ],
+      "ending_type": "impact-focused conclusive statement",
+      "summary": "Enthusiastic technical writing that uses concrete examples and analogies to explain robotic dexterity mechanisms through cause-and-effect reasoning, concluding with broad implications for robotics.",
+      "script_id": 20
+    },
+    {
+      "hook_type": "User's initial incorrect phrase demonstrating a common language mistake",
+      "tone": [
+        "friendly",
+        "supportive",
+        "educational"
+      ],
+      "sentence_rhythm": "Short, direct sentences with active pacing",
+      "transitions": [
+        "sequential",
+        "causal",
+        "repetitive"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "questioning",
+        "elaboration",
+        "contrast"
+      ],
+      "explanation_style": "Contextual, step-by-step explanations using user's examples",
+      "structure": [
+        "problem-solution progression",
+        "interactive learning sequence"
+      ],
+      "ending_type": "Gratitude-based closure",
+      "summary": "Conversational language learning dialogue with immediate corrections, step-by-step grammar explanations, and a supportive tone that builds from a user's initial mistake through practical examples to a positive conclusion",
+      "script_id": 21
+    },
+    {
+      "hook_type": "product announcement",
+      "tone": [
+        "informal",
+        "enthusiastic"
+      ],
+      "sentence_rhythm": "short and energetic sentences with technical specifics",
+      "transitions": [
+        "contrast",
+        "concession",
+        "addition",
+        "recurring"
+      ],
+      "rhetorical_devices": [
+        "anecdote",
+        "comparative claims",
+        "quantitative evidence",
+        "direct address"
+      ],
+      "explanation_style": "data-driven with concrete metrics and user examples",
+      "structure": [
+        "product announcement",
+        "performance metrics",
+        "user testimonials",
+        "feature details",
+        "cost analysis",
+        "call to action"
+      ],
+      "ending_type": "audience engagement prompt",
+      "summary": "Conversational tech update emphasizing specific performance metrics, user validation, and audience interaction",
+      "script_id": 22
+    },
+    {
+      "hook_type": "personal narrative",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "informative"
+      ],
+      "sentence_rhythm": "short and punchy with occasional longer explanatory clauses",
+      "transitions": [
+        "contrast",
+        "example introduction",
+        "sequencing"
+      ],
+      "rhetorical_devices": [
+        "metaphor",
+        "concrete examples",
+        "contrast",
+        "repetition"
+      ],
+      "explanation_style": "illustrative with practical examples and action-oriented",
+      "structure": [
+        "introduction",
+        "historical context",
+        "current example",
+        "tool demonstration",
+        "conclusion"
+      ],
+      "ending_type": "call to action",
+      "summary": "Conversational style using personal anecdotes and concrete examples to explain meme evolution and introduce an AI tool, ending with a direct call to action.",
+      "script_id": 23
+    },
+    {
+      "hook_type": "AI recreation of pop-culture artifact",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "optimistic",
+        "playful"
+      ],
+      "sentence_rhythm": "Short punchy sentences with strategic longer explanatory clauses",
+      "transitions": [
+        "Example",
+        "Historical contrast",
+        "Personal reflection"
+      ],
+      "rhetorical_devices": [
+        "Specific instance",
+        "Temporal contrast",
+        "Audience engagement question"
+      ],
+      "explanation_style": "Simplified technical process focused on user experience",
+      "structure": [
+        "Hook",
+        "Mechanism overview",
+        "Real-world application",
+        "Historical shift",
+        "Call to action"
+      ],
+      "ending_type": "Audience-inviting question",
+      "summary": "Optimistic social media post using AI-generated pop-culture object to illustrate accessible prototyping, contrasting historical engineering effort with current individual capability, ending with audience participation question",
+      "script_id": 24
+    },
+    {
+      "hook_type": "dramatic current event",
+      "tone": [
+        "urgent",
+        "conversational",
+        "provocative"
+      ],
+      "sentence_rhythm": "varied with short impactful sentences and longer explanatory clauses",
+      "transitions": [
+        "contrastive",
+        "temporal",
+        "causal"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "metaphor",
+        "play on words"
+      ],
+      "explanation_style": "narrative, example-driven",
+      "structure": [
+        "problem-solution",
+        "narrative arc"
+      ],
+      "ending_type": "rhetorical question",
+      "summary": "A fast-paced, conversational narrative that presents a high-stakes copyright dispute over a digital character in a current legal context, using vivid examples and rhetorical questions to engage the reader and end with a thought-provoking question about ownership.",
+      "script_id": 25
+    },
+    {
+      "hook_type": "immediate claim of recent action",
+      "tone": [
+        "enthusiastic",
+        "casual",
+        "self-deprecating"
+      ],
+      "sentence_rhythm": "Conversational, short sentences with fast pace",
+      "transitions": [
+        "problem-solution",
+        "step-by-step",
+        "contrast"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "metaphor",
+        "direct address",
+        "simplified explanation"
+      ],
+      "explanation_style": "Practical, step-by-step, non-technical",
+      "structure": [
+        "problem statement",
+        "solution introduction",
+        "methodology overview",
+        "feature demonstration",
+        "reflective conclusion"
+      ],
+      "ending_type": "Reflective conclusion with emphasis on user empowerment",
+      "summary": "An enthusiastic, casual technical demo that presents a simple project to solve a problem through a self-deprecating tone and practical explanations, ending with a broader statement about user empowerment.",
+      "script_id": 26
+    },
+    {
+      "hook_type": "futuristic biological starting point (blood sample)",
+      "tone": [
+        "conversational",
+        "optimistic",
+        "cautious"
+      ],
+      "sentence_rhythm": "short sentences with rhythmic contrast between current challenges and potential solutions",
+      "transitions": [
+        "problem-solution contrast",
+        "implications exploration",
+        "cautionary note"
+      ],
+      "rhetorical_devices": [
+        "metaphor",
+        "analogy",
+        "contrast",
+        "question",
+        "listing"
+      ],
+      "explanation_style": "step-by-step cause-and-effect with relatable examples",
+      "structure": [
+        "introduction of breakthrough",
+        "process explanation",
+        "current problem comparison",
+        "potential implications",
+        "limitations",
+        "conclusion"
+      ],
+      "ending_type": "cautious hope",
+      "summary": "Conversational tone presenting a fertility breakthrough with clear benefits but emphasizing early stage and safety concerns, structured to build from a surprising hook to cautious optimism.",
+      "script_id": 27
+    },
+    {
+      "hook_type": "specific event hook",
+      "tone": [
+        "urgent",
+        "analytical",
+        "critical",
+        "informative"
+      ],
+      "sentence_rhythm": "fast-paced with punchy sentences and strategic longer explanations",
+      "transitions": [
+        "sequential enumeration",
+        "causal linking phrases",
+        "implication markers"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "repetition",
+        "contrast",
+        "allusion"
+      ],
+      "explanation_style": "direct explanation with emphasis on implications and unresolved questions",
+      "structure": [
+        "event-driven",
+        "conditions-listed",
+        "implications-focused"
+      ],
+      "ending_type": "provocative question ending",
+      "summary": "Urgent news-style analysis using concise language to highlight government oversight implications for AI releases, with critical tone and rhetorical questions extending regulatory considerations beyond the immediate case.",
+      "script_id": 28
+    },
+    {
+      "hook_type": "problem-solution",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "pragmatic"
+      ],
+      "sentence_rhythm": "short, direct sentences with active voice and compound clauses",
+      "transitions": [
+        "but",
+        "and",
+        "now",
+        "on that note",
+        "because",
+        "so"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "appeal to self-interest",
+        "examples",
+        "admission of perspective"
+      ],
+      "explanation_style": "pragmatic, benefit-focused, with concrete examples",
+      "structure": [
+        "problem-solution",
+        "benefits elaboration",
+        "caveat",
+        "call to action"
+      ],
+      "ending_type": "call to action with appreciation",
+      "summary": "Conversational and pragmatic writing that identifies student subscription pain points and presents a single device solution to eliminate recurring costs, emphasizing open-source AI capabilities and unlimited usage while cautiously noting paid models' niche value.",
+      "script_id": 29
+    },
+    {
+      "hook_type": "Audience-specific benefit hook",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "persuasive"
+      ],
+      "sentence_rhythm": "Short, active sentences with demonstrative flow",
+      "transitions": [
+        "example-driven",
+        "step-by-step demonstration",
+        "cautionary note",
+        "contrast",
+        "feature expansion"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "anaphora",
+        "contrast",
+        "experiential demonstration"
+      ],
+      "explanation_style": "Hands-on demonstration with concrete examples",
+      "structure": [
+        "introduction",
+        "feature demonstration",
+        "cautionary note",
+        "broader ecosystem",
+        "additional features",
+        "conclusion"
+      ],
+      "ending_type": "Call to action with partner appreciation",
+      "summary": "Persuasive tech review targeting students, emphasizing cost savings and AI integration through demonstrative examples, ending with a recommendation.",
+      "script_id": 30
+    },
+    {
+      "hook_type": "immediate event hook",
+      "tone": [
+        "urgent",
+        "critical",
+        "conversational",
+        "hopeful"
+      ],
+      "sentence_rhythm": "fast-paced with short, direct sentences",
+      "transitions": [
+        "so as you can see",
+        "now",
+        "but",
+        "which is why"
+      ],
+      "rhetorical_devices": [
+        "examples",
+        "cause-effect explanation",
+        "analogy",
+        "technical explanation"
+      ],
+      "explanation_style": "concrete examples and simple technical explanations",
+      "structure": [
+        "problem introduction",
+        "government action and implications",
+        "flaw in strategy",
+        "global impact with focus on India",
+        "hopeful conclusion"
+      ],
+      "ending_type": "hopeful call for action",
+      "summary": "The transcript opens with a provocative current event to hook the audience, then explains the government's restrictions on AI models, their intended purpose, and the critical flaw in the strategy that impacts global innovation with specific focus on India, using direct language and concrete examples to illustrate technical concepts, ending with a hopeful note about potential catch-up through open source.",
+      "script_id": 31
+    },
+    {
+      "hook_type": "Benefit-focused feature announcement",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "persuasive"
+      ],
+      "sentence_rhythm": "Short, direct sentences with rhythmic contrast between past manual workflows and current AI-assisted solution",
+      "transitions": [
+        "Past vs present contrast",
+        "Temporal progression from historical context to current innovation"
+      ],
+      "rhetorical_devices": [
+        "Contrast",
+        "Metaphor (collapsing workflows)",
+        "Concrete examples of traditional web development"
+      ],
+      "explanation_style": "User-oriented, step-by-step comparison of conventional web development tasks with the new integrated solution",
+      "structure": [
+        "Problem-solution framework",
+        "Progressive feature demonstration",
+        "User empowerment emphasis"
+      ],
+      "ending_type": "Call to action followed by endorsement",
+      "summary": "The writing style opens with a strong benefit hook, contrasts historical manual processes with the new AI agent solution, emphasizes user control, and concludes with a persuasive recommendation and praise.",
+      "script_id": 32
+    },
+    {
+      "hook_type": "personal urgency hook",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "earnest",
+        "informal"
+      ],
+      "sentence_rhythm": "choppy with conversational fillers",
+      "transitions": [
+        "temporal markers",
+        "causal links",
+        "conversational cues"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "specific examples",
+        "contrast",
+        "hyperbole"
+      ],
+      "explanation_style": "narrative explanation emphasizing team effort and iterative improvement",
+      "structure": [
+        "hook",
+        "context",
+        "product elaboration",
+        "call to action",
+        "conclusion"
+      ],
+      "ending_type": "direct audience appeal for reaction",
+      "summary": "Conversational and enthusiastic presentation of a product launch, focusing on the team's iterative process and effort, structured to build anticipation and end with an open call for audience feedback.",
+      "script_id": 33
+    },
+    {
+      "hook_type": "announcement of reveal",
+      "tone": [
+        "enthusiastic",
+        "personal",
+        "playful"
+      ],
+      "sentence_rhythm": "short, punchy sentences with conversational pauses and rhythmic emphasis",
+      "transitions": [
+        "analogical transition",
+        "causal transition",
+        "personal anecdote transition",
+        "direct address transition"
+      ],
+      "rhetorical_devices": [
+        "playful repetition",
+        "direct address (nickname)",
+        "specific examples (anime characters)",
+        "analogical contrast"
+      ],
+      "explanation_style": "narrative with personal anecdotes and industry parallels",
+      "structure": [
+        "hook",
+        "reveal",
+        "personal rationale",
+        "industry context",
+        "audience engagement"
+      ],
+      "ending_type": "invitational",
+      "summary": "Conversational announcement blending personal passion with industry context, ending with audience participation",
+      "script_id": 34
+    },
+    {
+      "hook_type": "Audience mistake acknowledgment followed by a shift in perspective",
+      "tone": [
+        "playful",
+        "confident",
+        "slightly frustrated"
+      ],
+      "sentence_rhythm": "Fast-paced with short clauses and medium-length explanatory sentences",
+      "transitions": [
+        "contrast",
+        "consequence",
+        "introduction of next step"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "direct address",
+        "repetition",
+        "idiomatic expression"
+      ],
+      "explanation_style": "Step-by-step explanation with conversational flow and audience focus",
+      "structure": [
+        "audience feedback hook",
+        "twist in approach",
+        "game design explanation",
+        "clue reveal setup",
+        "call to action"
+      ],
+      "ending_type": "Engagement prompt for comments",
+      "summary": "Conversational style leveraging audience interaction to build narrative engagement, with structured explanations and a direct call to action for participation.",
+      "script_id": 35
+    },
+    {
+      "hook_type": "problem-focused",
+      "tone": [
+        "casual"
+      ],
+      "sentence_rhythm": "rapid and conversational",
+      "transitions": [
+        "temporal"
+      ],
+      "rhetorical_devices": [
+        "call to action",
+        "promise"
+      ],
+      "explanation_style": "concise and problem-driven",
+      "structure": [
+        "problem statement",
+        "specific example",
+        "action taken",
+        "interactive hook",
+        "time-bound reveal"
+      ],
+      "ending_type": "direct call to action",
+      "summary": "Casual social media script identifying a relatable problem in Indian game studios with a concrete example, followed by a time-bound interactive guessing game to drive audience engagement.",
+      "script_id": 36
+    },
+    {
+      "hook_type": "immediate enthusiastic reaction",
+      "tone": [
+        "energetic",
+        "conversational",
+        "playful",
+        "confident"
+      ],
+      "sentence_rhythm": "short, punchy sentences with intentional pauses and fragments",
+      "transitions": [
+        "sequential demonstration flow",
+        "hypothetical testing",
+        "conditional progression"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "allusion",
+        "direct address",
+        "hypothetical statement",
+        "echo effect"
+      ],
+      "explanation_style": "demonstration-driven with minimal technical detail",
+      "structure": [
+        "introduction of concept",
+        "demonstration of product",
+        "test case execution",
+        "functional reflection"
+      ],
+      "ending_type": "functional dependency reflection",
+      "summary": "An energetic, conversational style that uses rapid demonstration and repetitive phrasing to engage the audience in a product's capabilities, with a focus on immediate results and audience interaction.",
+      "script_id": 37
+    },
+    {
+      "hook_type": "goal-oriented command",
+      "tone": [
+        "enthusiastic",
+        "casual"
+      ],
+      "sentence_rhythm": "short and fast",
+      "transitions": [
+        "sequential demonstration",
+        "action-triggered"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "exclamation",
+        "hyperbole"
+      ],
+      "explanation_style": "visual demonstration",
+      "structure": [
+        "demonstration-first",
+        "progressive testing",
+        "forward-looking"
+      ],
+      "ending_type": "speculative question",
+      "summary": "High-energy, casual demonstration style focused on real-time game mechanics testing with emphasis on immediate results and future scalability.",
+      "script_id": 38
+    },
+    {
+      "hook_type": "Direct visual demonstration",
+      "tone": [
+        "enthusiastic",
+        "conversational"
+      ],
+      "sentence_rhythm": "Short, rapid, and emphatic phrases",
+      "transitions": [
+        "Demonstration progression",
+        "Action triggers"
+      ],
+      "rhetorical_devices": [
+        "Repetition",
+        "Hyperbolic praise",
+        "Rhetorical question",
+        "Emphasis"
+      ],
+      "explanation_style": "Practical demonstration with real-time data outcomes",
+      "structure": [
+        "Demonstration step",
+        "Real-time example",
+        "Enthusiastic reaction"
+      ],
+      "ending_type": "Repetitive reinforcement of simplicity and effectiveness",
+      "summary": "Enthusiastic, conversational tech demonstration style with rapid pacing, focusing on a single, powerful visual output and concluding with a strong affirmation of its simplicity and effectiveness.",
+      "script_id": 39
+    },
+    {
+      "hook_type": "immediate government action",
+      "tone": [
+        "urgent",
+        "analytical",
+        "conversational"
+      ],
+      "sentence_rhythm": "fast-paced and concise",
+      "transitions": [
+        "problem-solution",
+        "temporal sequence",
+        "question-formation"
+      ],
+      "rhetorical_devices": [
+        "questioning",
+        "contrast",
+        "implication"
+      ],
+      "explanation_style": "accessible and step-by-step",
+      "structure": [
+        "event-implication",
+        "question-formulation",
+        "call-to-action"
+      ],
+      "ending_type": "call-to-action",
+      "summary": "A concise news narrative that begins with a government action, explains the resulting technical compliance, and raises a pivotal ethical question about AI safety, ending with a subscription invitation.",
+      "script_id": 40
+    },
+    {
+      "hook_type": "breaking news",
+      "tone": [
+        "factual",
+        "surprising",
+        "emphatic"
+      ],
+      "sentence_rhythm": "short sentences with strategic elaboration",
+      "transitions": [
+        "comparative",
+        "additive",
+        "contrastive"
+      ],
+      "rhetorical_devices": [
+        "comparison",
+        "hyperbole",
+        "contrast"
+      ],
+      "explanation_style": "quantitative with critical perspective",
+      "structure": [
+        "hook",
+        "scale elaboration",
+        "cause",
+        "critical analysis",
+        "historical contrast"
+      ],
+      "ending_type": "historical contrast conclusion",
+      "summary": "A concise, news-oriented style that quantifies the scale of wealth through comparisons, introduces a critical counterpoint about paper wealth, and ends with a historical contrast to highlight the extraordinary achievement.",
+      "script_id": 41
+    },
+    {
+      "hook_type": "Action-driven inquiry",
+      "tone": [
+        "enthusiastic",
+        "amazed",
+        "technical",
+        "casual"
+      ],
+      "sentence_rhythm": "Short, rapid sentences with minimal punctuation",
+      "transitions": [
+        "Step-by-step demonstration",
+        "Contrast between sketch and real version",
+        "Reflective pivot"
+      ],
+      "rhetorical_devices": [
+        "Repetition of action phrases",
+        "Contrast",
+        "Inquiry",
+        "Exclamatory statements"
+      ],
+      "explanation_style": "Demonstrative and practical, emphasizing immediate functionality and visual results",
+      "structure": [
+        "Project demonstration",
+        "Technical observation",
+        "Reflective conclusion"
+      ],
+      "ending_type": "Reflective conclusion linking past project to current potential",
+      "summary": "Energetic, hands-on technical demonstration with rapid pacing, followed by a reflective conclusion that connects the project's current success to past work and broader software implications.",
+      "script_id": 42
+    },
+    {
+      "hook_type": "strong product announcement with implied advancement",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "slightly technical"
+      ],
+      "sentence_rhythm": "short and punchy sentences with rapid examples",
+      "transitions": [
+        "contrastive (but)",
+        "illustrative (for example, for instance)",
+        "causal (because)",
+        "explanatory (which)"
+      ],
+      "rhetorical_devices": [
+        "hyperbole (exaggerated claims for impact)",
+        "specific concrete examples",
+        "contrast"
+      ],
+      "explanation_style": "direct and practical, using concrete examples and numbers to illustrate capabilities",
+      "structure": [
+        "problem-solution (introducing capabilities beyond benchmarks)",
+        "examples of real-world applications",
+        "expert perspective on broader implications",
+        "availability details and call to action"
+      ],
+      "ending_type": "call to action",
+      "summary": "The writing style uses a strong hook to announce a new model, then quickly pivots to its real-world capabilities with concrete examples, contrasts the model's accessibility, and ends with an invitation for reader engagement while maintaining an enthusiastic, conversational tone.",
+      "script_id": 43
+    },
+    {
+      "hook_type": "problem-solution",
+      "tone": [
+        "conversational",
+        "skeptical",
+        "hopeful"
+      ],
+      "sentence_rhythm": "fast-paced",
+      "transitions": [
+        "contrastive",
+        "causal",
+        "explanatory",
+        "additive"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "irony"
+      ],
+      "explanation_style": "concrete examples with critical perspective",
+      "structure": [
+        "problem-solution",
+        "feature-by-feature explanation",
+        "skepticism-to-hope progression"
+      ],
+      "ending_type": "rhetorical question",
+      "summary": "Conversational tone with problem-solution hook, fast-paced sentences, contrastive and additive transitions, and a rhetorical question ending.",
+      "script_id": 44
+    },
+    {
+      "hook_type": "product scarcity hook",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "critical"
+      ],
+      "sentence_rhythm": "Mix of short, impactful sentences and longer descriptive clauses",
+      "transitions": [
+        "contrast",
+        "causal",
+        "temporal"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "hyperbole",
+        "contrast",
+        "assertion"
+      ],
+      "explanation_style": "Direct and contextual, focusing on implications and industry trends",
+      "structure": [
+        "hook",
+        "product specifications",
+        "contradiction",
+        "recent context",
+        "broader implication"
+      ],
+      "ending_type": "forward-looking conclusion with industry implication",
+      "summary": "Conversational style that uses product scarcity to hook, contrasts current hybrid reality with past electric plans, and concludes with a forward-looking statement on automotive design trends",
+      "script_id": 45
+    },
+    {
+      "hook_type": "intriguing technological application in a familiar context",
+      "tone": [
+        "enthusiastic",
+        "informative",
+        "conversational",
+        "optimistic"
+      ],
+      "sentence_rhythm": "smooth and deliberate with medium to long sentences and strategic short punches",
+      "transitions": [
+        "contrast",
+        "analogy",
+        "temporal progression",
+        "clarification"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "contrast"
+      ],
+      "explanation_style": "step-by-step, accessible, analogy-driven",
+      "structure": [
+        "hook-to-explanation",
+        "current-to-future progression",
+        "concluding praise"
+      ],
+      "ending_type": "appreciative and forward-looking conclusion",
+      "summary": "Concise, engaging explanation using a relatable analogy to introduce an innovative AI application in cricket tournaments, with step-by-step progression from traditional logistics to current implementation and future potential, ending in enthusiastic praise.",
+      "script_id": 46
+    },
+    {
+      "hook_type": "established leader with challenger",
+      "tone": [
+        "conversational",
+        "excited",
+        "technical",
+        "engaging"
+      ],
+      "sentence_rhythm": "fast-paced with short, direct sentences and strategic longer explanations for impact",
+      "transitions": [
+        "but",
+        "because",
+        "no matter how"
+      ],
+      "rhetorical_devices": [
+        "specific examples",
+        "concrete evidence",
+        "contrast",
+        "call to action"
+      ],
+      "explanation_style": "practical and benefit-focused, avoiding excessive jargon while highlighting real-world implications",
+      "structure": [
+        "introduction of challenger",
+        "key capabilities",
+        "technical breakdown",
+        "comparison with Apple",
+        "form factor implications",
+        "call to action"
+      ],
+      "ending_type": "call to action",
+      "summary": "Conversational tech analysis emphasizing practical gaming performance and form factor implications, ending with audience engagement.",
+      "script_id": 47
+    },
+    {
+      "hook_type": "question",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "practical"
+      ],
+      "sentence_rhythm": "rapid-fire with short clauses",
+      "transitions": [
+        "consequence",
+        "clarification",
+        "comment",
+        "benefit",
+        "reiteration",
+        "filler"
+      ],
+      "rhetorical_devices": [
+        "questioning",
+        "repetition",
+        "contrast",
+        "direct address"
+      ],
+      "explanation_style": "practical examples with minimal technical jargon",
+      "structure": [
+        "Q&A flow",
+        "practical use cases",
+        "product demonstration"
+      ],
+      "ending_type": "call to action with forward-looking statement",
+      "summary": "Conversational tech demo focusing on practical enterprise AI applications with a direct call to action",
+      "script_id": 48
+    },
+    {
+      "hook_type": "specific financial incentive scenario",
+      "tone": [
+        "energetic",
+        "persuasive",
+        "urgent"
+      ],
+      "sentence_rhythm": "fast-paced with short, punchy sentences and occasional longer explanatory clauses",
+      "transitions": [
+        "step-by-step sequence",
+        "parallel action markers",
+        "causal links",
+        "conditional transitions"
+      ],
+      "rhetorical_devices": [
+        "concrete examples",
+        "contrast",
+        "specificity",
+        "imagery"
+      ],
+      "explanation_style": "practical, step-by-step demonstration with concrete examples",
+      "structure": [
+        "hook",
+        "program explanation",
+        "concrete demonstration",
+        "team integration",
+        "call to action"
+      ],
+      "ending_type": "direct call to action with urgency",
+      "summary": "High-energy, persuasive tech marketing copy that uses concrete step-by-step demonstrations to illustrate product capabilities and drives immediate action with time-sensitive offers.",
+      "script_id": 49
+    },
+    {
+      "hook_type": "unexpected innovation announcement",
+      "tone": [
+        "critical",
+        "ironic"
+      ],
+      "sentence_rhythm": "short and direct with feature lists",
+      "transitions": [
+        "contrast",
+        "counterargument introduction",
+        "concluding transition"
+      ],
+      "rhetorical_devices": [
+        "irony",
+        "contrast",
+        "metaphor",
+        "list"
+      ],
+      "explanation_style": "feature listing with critical contrast",
+      "structure": [
+        "introduction of innovation",
+        "feature listing with contrast",
+        "counterargument address",
+        "designer connection conclusion"
+      ],
+      "ending_type": "concluding remark reinforcing the designer's connection to Apple",
+      "summary": "Critical and ironic analysis contrasting traditional automotive identity with modern electric vehicle features through explicit listing, addressing potential comparisons, and concluding with a design philosophy parallel to Apple.",
+      "script_id": 50
+    },
+    {
+      "hook_type": "direct comparison to a famous brand (Tesla)",
+      "tone": [
+        "enthusiastic",
+        "confident",
+        "provocative"
+      ],
+      "sentence_rhythm": "punchy and energetic with varied lengths",
+      "transitions": [
+        "contrastive",
+        "temporal",
+        "causal"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "metaphor",
+        "appeal to authority",
+        "invocation of imagination"
+      ],
+      "explanation_style": "benefit-focused, narrative-driven with technical simplification",
+      "structure": [
+        "hook",
+        "product showcase",
+        "technology details",
+        "founder background",
+        "societal impact"
+      ],
+      "ending_type": "provocative societal call to action",
+      "summary": "Energetic narrative emphasizing an Indian startup's innovative electric bike technology to challenge Silicon Valley dominance and advocate for indigenous innovation.",
+      "script_id": 51
+    },
+    {
+      "hook_type": "direct announcement of positive news",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "optimistic"
+      ],
+      "sentence_rhythm": "short, conversational, with strategic pauses and emphasis",
+      "transitions": [
+        "Now",
+        "So",
+        "Well",
+        "And the last thing",
+        "In fact",
+        "But"
+      ],
+      "rhetorical_devices": [
+        "explanation of context",
+        "contrast",
+        "repetition for emphasis",
+        "anecdotal reference"
+      ],
+      "explanation_style": "direct, accessible, with practical examples and clear analogies",
+      "structure": [
+        "hook",
+        "introduction of new feature",
+        "three key points with explanations",
+        "conclusion with future implications"
+      ],
+      "ending_type": "hopeful, forward-looking conclusion with emphasis on early stages",
+      "summary": "Enthusiastic, conversational writing that introduces Unreal Engine 6's key features with a focus on community accessibility and optimization, concluding with optimism about the nascent phase of a transformative game development era.",
+      "script_id": 52
+    },
+    {
+      "hook_type": "recalls previous project with monetary figure",
+      "tone": [
+        "conversational",
+        "urgent",
+        "vulnerable",
+        "enthusiastic",
+        "confident"
+      ],
+      "sentence_rhythm": "short, punchy sentences with intentional pauses",
+      "transitions": [
+        "contrast",
+        "causal",
+        "call_to_action"
+      ],
+      "rhetorical_devices": [
+        "anaphora",
+        "metaphor",
+        "hyperbole",
+        "appeal_to_emotion"
+      ],
+      "explanation_style": "first-person narrative with experiential emphasis",
+      "structure": [
+        "hook",
+        "problem",
+        "reason",
+        "outcome",
+        "personal_impact",
+        "call_to_action"
+      ],
+      "ending_type": "call_to_action_with_sign_off",
+      "summary": "Conversational and urgent tone with personal storytelling, using contrast and causal transitions to explain project success despite initial concerns, emphasizing dedication through experiential narrative, ending with direct call to action.",
+      "script_id": 53
+    },
+    {
+      "hook_type": "surprising event",
+      "tone": [
+        "critical",
+        "urgent",
+        "pragmatic"
+      ],
+      "sentence_rhythm": "short and direct with occasional complex sentences",
+      "transitions": [
+        "now",
+        "but",
+        "in fact",
+        "point being"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "contrast",
+        "repetition",
+        "summary phrase"
+      ],
+      "explanation_style": "narrative with concrete examples leading to broader implications",
+      "structure": [
+        "incident",
+        "context",
+        "psychological framework",
+        "contrast",
+        "conclusion"
+      ],
+      "ending_type": "call to action with resolution",
+      "summary": "A concise, urgent narrative that begins with a provocative incident to illustrate AI's immediate societal impact, then explains public reaction through a psychological lens, contrasts global responses, and concludes with a pragmatic imperative to adapt.",
+      "script_id": 54
+    },
+    {
+      "hook_type": "direct event announcement with top highlights",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "informative",
+        "accessible"
+      ],
+      "sentence_rhythm": "short, punchy sentences with strategic longer sentences for explanation; fast-paced",
+      "transitions": [
+        "numbered list for clarity",
+        "use of 'another' for additional examples",
+        "feature-to-benefit transitions",
+        "time-based context"
+      ],
+      "rhetorical_devices": [
+        "practical examples",
+        "direct address to audience",
+        "question for audience engagement"
+      ],
+      "explanation_style": "benefit-focused, user-centric with minimal technical jargon",
+      "structure": [
+        "introduction",
+        "three numbered announcements with concise explanations",
+        "conclusion with audience question"
+      ],
+      "ending_type": "audience engagement question",
+      "summary": "Conversational, enthusiastic presentation of three key Google IO announcements using numbered list structure, benefit-driven explanations, and ending with an interactive question to the audience",
+      "script_id": 55
+    },
+    {
+      "hook_type": "breaking_news",
+      "tone": [
+        "informal",
+        "conversational",
+        "neutral",
+        "skeptical"
+      ],
+      "sentence_rhythm": "short and direct sentences with occasional explanatory clauses",
+      "transitions": [
+        "contrast",
+        "explanatory",
+        "causal",
+        "temporal",
+        "concession"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "simplification",
+        "irony"
+      ],
+      "explanation_style": "conversational, non-technical",
+      "structure": [
+        "hook",
+        "twist",
+        "explanation",
+        "consequence",
+        "quote",
+        "next_step",
+        "caveat"
+      ],
+      "ending_type": "caveat",
+      "summary": "Concise, conversational news style featuring breaking news hook, contrastive twist, straightforward explanation, and cautionary conclusion.",
+      "script_id": 56
+    },
+    {
+      "hook_type": "surprising expense with interactive challenge",
+      "tone": [
+        "casual",
+        "urgent",
+        "self-deprecating"
+      ],
+      "sentence_rhythm": "short, punchy sentences with conversational flow",
+      "transitions": [
+        "conversational",
+        "contrast",
+        "rhetorical questions"
+      ],
+      "rhetorical_devices": [
+        "metaphor",
+        "repetition",
+        "analogy"
+      ],
+      "explanation_style": "practical and data-driven",
+      "structure": [
+        "problem-solution",
+        "conversational flow"
+      ],
+      "ending_type": "call to action",
+      "summary": "Conversational, data-driven account of AI video production challenges with a direct call for viewer engagement",
+      "script_id": 57
+    },
+    {
+      "hook_type": "problem/surprise hook",
+      "tone": [
+        "informal",
+        "critical",
+        "reflective",
+        "frustrated"
+      ],
+      "sentence_rhythm": "short and direct with occasional complex sentences",
+      "transitions": [
+        "causal",
+        "additive",
+        "contrastive"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "imagery",
+        "contrast"
+      ],
+      "explanation_style": "narrative explanation with cause-effect and implications",
+      "structure": [
+        "hook",
+        "setup",
+        "outcome",
+        "implications",
+        "conclusion"
+      ],
+      "ending_type": "rhetorical question",
+      "summary": "Conversational, critical style that uses a real-world experiment to highlight AI art bias and the erosion of human aesthetic recognition, ending with an engagement question.",
+      "script_id": 58
+    },
+    {
+      "hook_type": "user-centric problem hook",
+      "tone": [
+        "conversational",
+        "engaging",
+        "inquisitive",
+        "pragmatic"
+      ],
+      "sentence_rhythm": "short and direct with occasional rhetorical questions and emphatic phrases",
+      "transitions": [
+        "causal",
+        "temporal",
+        "contrastive",
+        "explanatory"
+      ],
+      "rhetorical_devices": [
+        "rhetorical questions",
+        "repetition",
+        "contrast",
+        "emphatic phrasing",
+        "metaphor"
+      ],
+      "explanation_style": "step-by-step cause-and-effect with practical examples",
+      "structure": [
+        "problem-solution narrative",
+        "step-by-step troubleshooting",
+        "cause-effect progression"
+      ],
+      "ending_type": "concluding insight with rephrased core message",
+      "summary": "Conversational, step-by-step explanation of a technical problem with a pragmatic solution, using clear transitions and rhetorical questions to engage the reader.",
+      "script_id": 59
+    },
+    {
+      "hook_type": "personal greeting with immediate event context",
+      "tone": [
+        "casual",
+        "enthusiastic",
+        "repetitive praise"
+      ],
+      "sentence_rhythm": "short, fragmented, conversational with frequent interjections and repetition",
+      "transitions": [
+        "contrast",
+        "sequencing",
+        "concluding"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "parallel structure",
+        "rhetorical questions"
+      ],
+      "explanation_style": "anecdotal with generalization",
+      "structure": [
+        "personal hook",
+        "reaction and reflection",
+        "contextualization",
+        "creative approach",
+        "contrast with alternatives",
+        "generalization",
+        "concluding observation"
+      ],
+      "ending_type": "repetitive emphatic conclusion",
+      "summary": "Casual conversational style with heavy repetition of enthusiasm, short fragmented sentences, and rhetorical devices to emphasize creative marketing strategies",
+      "script_id": 60
+    },
+    {
+      "rhetorical_devices": [
+        "metaphor",
+        "allusion",
+        "simile",
+        "parallelism"
+      ],
+      "explanation_style": "step-by-step, action-oriented, non-technical",
+      "structure": [
+        "hook",
+        "solution demonstration",
+        "feature listing",
+        "credibility",
+        "benefit",
+        "call to action",
+        "closing"
+      ],
+      "ending_type": "call to action with closing thanks",
+      "summary": "Conversational script that opens with nostalgia, demonstrates no-code game platform features incrementally, emphasizes credibility through real-world validation, and concludes with an invitation for viewer participation.",
+      "script_id": 61
+    },
+    {
+      "hook_type": "problem-driven urgency",
+      "tone": [
+        "urgent",
+        "conversational",
+        "instructional",
+        "practical"
+      ],
+      "sentence_rhythm": "Fast-paced with short sentences for urgency, interspersed with medium-length explanatory sentences",
+      "transitions": [
+        "contrast",
+        "result",
+        "cause"
+      ],
+      "rhetorical_devices": [
+        "direct address",
+        "contrast",
+        "practical example",
+        "call to action"
+      ],
+      "explanation_style": "Action-oriented with specific, step-by-step guidance for cost optimization",
+      "structure": [
+        "problem statement",
+        "optimization principle",
+        "call to action"
+      ],
+      "ending_type": "imperative call to action",
+      "summary": "Urgent, conversational technical guidance on AI cost optimization with practical examples and immediate action prompts",
+      "script_id": 62
+    },
+    {
+      "hook_type": "competitive product announcement",
+      "tone": [
+        "casual",
+        "informative",
+        "engaging"
+      ],
+      "sentence_rhythm": "short and direct with compound clauses",
+      "transitions": [
+        "and while",
+        "though",
+        "overall"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "simplification"
+      ],
+      "explanation_style": "feature-focused with tiered pricing explanation",
+      "structure": [
+        "introduction",
+        "product features",
+        "subscription model",
+        "launch details",
+        "conclusion"
+      ],
+      "ending_type": "rhetorical question",
+      "summary": "Conversational tech product announcement with competitive hook, clear feature breakdown, and reader engagement through rhetorical question.",
+      "script_id": 63
+    },
+    {
+      "hook_type": "anecdote-driven hook",
+      "tone": [
+        "conversational",
+        "persuasive"
+      ],
+      "sentence_rhythm": "short and direct with conversational cadence",
+      "transitions": [
+        "broadening",
+        "highlighting",
+        "example",
+        "conclusion"
+      ],
+      "rhetorical_devices": [
+        "anecdote",
+        "example",
+        "contrast",
+        "historical reference",
+        "call to action"
+      ],
+      "explanation_style": "evidence-based with simple language for general audience",
+      "structure": [
+        "anecdote hook",
+        "claim",
+        "experimental evidence",
+        "comparative analysis",
+        "long-term effect",
+        "historical example",
+        "conclusion"
+      ],
+      "ending_type": "call to reframe",
+      "summary": "Conversational style using an anecdote to hook the audience, supported by experimental evidence and historical examples, arguing that gaming enhances cognitive abilities and concluding with a call to reframe gaming as a cognitive enhancement tool.",
+      "script_id": 64
+    },
+    {
+      "hook_type": "personal tech anecdote",
+      "tone": [
+        "humorous",
+        "reflective",
+        "philosophical"
+      ],
+      "sentence_rhythm": "short and direct with occasional complex elaboration",
+      "transitions": [
+        "contrast",
+        "sequential listing",
+        "causal"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "metaphor",
+        "analogy",
+        "contrast"
+      ],
+      "explanation_style": "concrete examples with narrative flow",
+      "structure": [
+        "incident description",
+        "product limitation",
+        "non-quantifiable aspects",
+        "technological future",
+        "dystopian implications",
+        "reflective conclusion"
+      ],
+      "ending_type": "reflective conclusion with a light positive note",
+      "summary": "The writing style uses a humorous tech anecdote to explore the philosophical tension between quantifying relationships and their inherent unmeasured qualities, with a reflective and playful tone.",
+      "script_id": 65
+    },
+    {
+      "hook_type": "common experience hook",
+      "tone": [
+        "casual",
+        "energetic",
+        "explanatory"
+      ],
+      "sentence_rhythm": "short and punchy sentences with varied clause lengths to maintain momentum",
+      "transitions": [
+        "contrast",
+        "causal",
+        "temporal",
+        "rhetorical"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "rhetorical question",
+        "metaphor",
+        "hyperbole",
+        "allusion"
+      ],
+      "explanation_style": "step-by-step technical breakdown with cause-effect relationships",
+      "structure": [
+        "narrative",
+        "explanatory",
+        "problem-solution"
+      ],
+      "ending_type": "unprecedented achievement conclusion",
+      "summary": "Conversational technical explanation using relatable clip hook and contrast to reveal 3G's open ocean streaming capability, concluding with unprecedented achievement emphasis.",
+      "script_id": 66
+    },
+    {
+      "hook_type": "scenario-based question",
+      "tone": [
+        "playful",
+        "conversational",
+        "informative"
+      ],
+      "sentence_rhythm": "fast-paced with short sentences and strategic complexity",
+      "transitions": [
+        "causal",
+        "contrastive",
+        "introducing source"
+      ],
+      "rhetorical_devices": [
+        "questioning",
+        "contrast",
+        "irony",
+        "metaphor",
+        "appeal to emotion"
+      ],
+      "explanation_style": "step-by-step logical progression",
+      "structure": [
+        "hook",
+        "scenario description",
+        "common instinct analysis",
+        "game theory explanation",
+        "red choice justification",
+        "opinion division",
+        "follow-up question"
+      ],
+      "ending_type": "personal ethical question",
+      "summary": "Conversational and playful use of a game theory thought experiment to challenge instinctive choices, leveraging irony and metaphor to present a scenario that ends with a reflective ethical question about family values.",
+      "script_id": 67
+    },
+    {
+      "hook_type": "problem-solution",
+      "tone": [
+        "conversational",
+        "informal",
+        "confident",
+        "slightly humorous",
+        "personal"
+      ],
+      "sentence_rhythm": "short and direct with energetic flow",
+      "transitions": [
+        "sequential listing",
+        "emphatic addition",
+        "personal experience",
+        "concluding emphasis"
+      ],
+      "rhetorical_devices": [
+        "anecdote",
+        "contrast",
+        "repetition",
+        "specificity",
+        "personal testimony"
+      ],
+      "explanation_style": "clear and concrete with step-by-step breakdown and real-world examples",
+      "structure": [
+        "hook",
+        "tool explanation",
+        "evidence of effectiveness",
+        "personal experience",
+        "conclusion"
+      ],
+      "ending_type": "personal endorsement with relatable comparison",
+      "summary": "Conversational style using problem-solution hook, concrete examples, and personal endorsement to advocate for human-like communication.",
+      "script_id": 68
+    },
+    {
+      "hook_type": "problem-solution claim",
+      "tone": [
+        "colloquial",
+        "enthusiastic",
+        "confident"
+      ],
+      "sentence_rhythm": "Short, punchy sentences with imperative verbs",
+      "transitions": [
+        "method introduction",
+        "result clarification",
+        "additional result acknowledgment"
+      ],
+      "rhetorical_devices": [
+        "hyperbole",
+        "specific example",
+        "contrast"
+      ],
+      "explanation_style": "step-by-step tutorial with concrete examples",
+      "structure": [
+        "hook",
+        "method demonstration",
+        "result showcase",
+        "additional result analysis",
+        "conclusion"
+      ],
+      "ending_type": "benefit-focused conclusion",
+      "summary": "Enthusiastic, concise style with a problem-solution hook, step-by-step method demonstration, and a benefit-focused conclusion.",
+      "script_id": 69
+    },
+    {
+      "hook_type": "recent event announcement",
+      "tone": [
+        "conversational",
+        "informative",
+        "enthusiastic"
+      ],
+      "sentence_rhythm": "short and direct with occasional complex technical sentences",
+      "transitions": [
+        "addition",
+        "contrast",
+        "causal",
+        "emphasis"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "example",
+        "problem-solution framing"
+      ],
+      "explanation_style": "step-by-step with analogies to simplify complex systems",
+      "structure": [
+        "product introduction",
+        "system components",
+        "problem context",
+        "solution impact"
+      ],
+      "ending_type": "cliffhanger",
+      "summary": "Conversational step-by-step explanation of complex AI system components addressing enterprise attribution challenges, ending with an incomplete solution statement.",
+      "script_id": 70
+    },
+    {
+      "hook_type": "immediate event with surprising outcome",
+      "tone": [
+        "factual",
+        "critical",
+        "speculative"
+      ],
+      "sentence_rhythm": "fast-paced and direct",
+      "transitions": [
+        "sequential",
+        "contrast",
+        "illustrative",
+        "causal"
+      ],
+      "rhetorical_devices": [
+        "exemplification",
+        "ironic contrast"
+      ],
+      "explanation_style": "practical examples with accessible technical context",
+      "structure": [
+        "event description",
+        "problem analysis",
+        "future implications"
+      ],
+      "ending_type": "forward-looking speculation",
+      "summary": "A concise, critical narrative using concrete examples to highlight AI's operational challenges in business, ending with a speculative note on future trends.",
+      "script_id": 71
+    },
+    {
+      "hook_type": "unexpected national claim",
+      "tone": [
+        "assertive",
+        "promotional",
+        "factual"
+      ],
+      "sentence_rhythm": "short, punchy sentences with rapid transitions between key metrics",
+      "transitions": [
+        "however",
+        "compared to",
+        "but when compared to",
+        "and interestingly",
+        "what makes this launch particularly special"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "comparative statements",
+        "numerical evidence"
+      ],
+      "explanation_style": "results-oriented with concrete metrics and direct comparisons",
+      "structure": [
+        "hook",
+        "performance highlights",
+        "feature differentiation",
+        "model comparisons",
+        "cost advantage",
+        "strategic implication"
+      ],
+      "ending_type": "forward-looking significance with hardware innovation",
+      "summary": "Concise, data-driven promotional style emphasizing competitive advantages through specific benchmarks, cost efficiency, and strategic hardware alignment",
+      "script_id": 72
+    },
+    {
+      "hook_type": "product release announcement",
+      "tone": [
+        "confident",
+        "technical",
+        "promotional",
+        "conversational"
+      ],
+      "sentence_rhythm": "steady, medium-length sentences with cumulative listing",
+      "transitions": [
+        "contrast",
+        "key point introduction",
+        "caveat",
+        "addition"
+      ],
+      "rhetorical_devices": [
+        "listing",
+        "contrast",
+        "explanatory definition",
+        "quote attribution"
+      ],
+      "explanation_style": "direct, example-based, causal",
+      "structure": [
+        "hook",
+        "feature elaboration",
+        "comparative analysis",
+        "contextual caveat"
+      ],
+      "ending_type": "incomplete sentence (trailing thought)",
+      "summary": "Confident technical promotional text that lists capabilities with emphasis on efficiency gains and comparative advantages while noting release timing context.",
+      "script_id": 73
+    },
+    {
+      "hook_type": "Time-based testing claim with benefit promise",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "confident"
+      ],
+      "sentence_rhythm": "Short and energetic",
+      "transitions": [
+        "Implicit list progression",
+        "Benefit-focused explanations"
+      ],
+      "rhetorical_devices": [
+        "Concrete examples",
+        "Past-present contrast",
+        "Hyperbolic language",
+        "Emphatic adjectives"
+      ],
+      "explanation_style": "User-benefit oriented and concise",
+      "structure": [
+        "Hook",
+        "List of 10 feature highlights",
+        "Concluding caution"
+      ],
+      "ending_type": "Forward-looking with realistic limitation",
+      "summary": "Enthusiastic, concise listing of practical AI image model applications with a disclaimer about human oversight",
+      "script_id": 74
+    },
+    {
+      "hook_type": "provocative conflict statement",
+      "tone": [
+        "conversational",
+        "critical",
+        "questioning"
+      ],
+      "sentence_rhythm": "short, punchy sentences with occasional explanatory clauses",
+      "transitions": [
+        "rhetorical question",
+        "sequential progression",
+        "causal explanation",
+        "additive contrast",
+        "shift"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "audience appeal"
+      ],
+      "explanation_style": "concise, step-by-step explanation with specific examples",
+      "structure": [
+        "hook with conflict",
+        "contextual explanation",
+        "cause-effect analysis",
+        "evaluation with uncertainty"
+      ],
+      "ending_type": "audience-inviting question",
+      "summary": "Conversational narrative that opens with a provocative conflict statement, provides step-by-step cause-effect analysis of Disney's strategic move, and ends with an open question to the audience.",
+      "script_id": 75
+    },
+    {
+      "hook_type": "problem-solution hook",
+      "tone": [
+        "informative",
+        "enthusiastic",
+        "accessible",
+        "persuasive"
+      ],
+      "sentence_rhythm": "fast-paced with short clauses and list-like structures",
+      "transitions": [
+        "contrast",
+        "example",
+        "progression",
+        "addition",
+        "consequence",
+        "concluding"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "concrete examples",
+        "emotional appeal",
+        "list of specific capabilities"
+      ],
+      "explanation_style": "concrete examples with real-world applications",
+      "structure": [
+        "problem-solution",
+        "concrete examples",
+        "feature enumeration",
+        "user prompts",
+        "implementation steps",
+        "concluding statement"
+      ],
+      "ending_type": "significance-focused ending",
+      "summary": "Problem-solution hook with concrete examples to demonstrate capability in underrepresented languages, ending with a statement on global inclusivity.",
+      "script_id": 76
+    },
+    {
+      "hook_type": "breaking news hook",
+      "tone": [
+        "energetic",
+        "factual",
+        "confident"
+      ],
+      "sentence_rhythm": "rapid and concise",
+      "transitions": [
+        "contrast",
+        "explanatory",
+        "consequence",
+        "caveat"
+      ],
+      "rhetorical_devices": [
+        "hyperbole",
+        "contrast",
+        "implication"
+      ],
+      "explanation_style": "step-by-step with concrete examples and benefit focus",
+      "structure": [
+        "hook",
+        "event",
+        "context",
+        "rationale",
+        "implication",
+        "caveat"
+      ],
+      "ending_type": "caveat ending",
+      "summary": "A fast-paced news narrative that uses hyperbolic language to highlight the significance of a leadership change, explains the rationale with specific examples, and concludes with a temporal caveat.",
+      "script_id": 77
+    },
+    {
+      "hook_type": "urgent event announcement",
+      "tone": [
+        "urgent",
+        "technical",
+        "authoritative"
+      ],
+      "sentence_rhythm": "short, imperative-driven sentences with rapid pacing",
+      "transitions": [
+        "sequential cause-effect",
+        "contrast",
+        "temporal progression"
+      ],
+      "rhetorical_devices": [
+        "direct imperative commands",
+        "step-by-step explanation",
+        "contrast"
+      ],
+      "explanation_style": "technical sequence with precise causality",
+      "structure": [
+        "hook",
+        "immediate action instructions",
+        "attack pathway",
+        "attacker profile",
+        "impact assessment",
+        "ongoing mitigation"
+      ],
+      "ending_type": "action-oriented conclusion with ongoing investigation context",
+      "summary": "Urgent technical communication detailing a breach with step-by-step explanation, emphasizing immediate response and limited impact while maintaining authoritative tone.",
+      "script_id": 78
+    },
+    {
+      "hook_type": "problem-solution demonstration",
+      "tone": [
+        "conversational",
+        "enthusiastic",
+        "practical",
+        "optimistic"
+      ],
+      "sentence_rhythm": "short and direct with occasional longer explanatory sentences",
+      "transitions": [
+        "consequence",
+        "addition",
+        "contrast",
+        "concession"
+      ],
+      "rhetorical_devices": [
+        "anecdote",
+        "contrast",
+        "allusion"
+      ],
+      "explanation_style": "example-driven with technical context and broader implications",
+      "structure": [
+        "product demonstration",
+        "feature explanation",
+        "technical context",
+        "anecdote for contrast",
+        "broader implications"
+      ],
+      "ending_type": "concise conclusion",
+      "summary": "Conversational explanation of a new design tool's capabilities using practical examples, technical context, and a notable event to illustrate a shift in the design workflow bottleneck.",
+      "script_id": 79
+    },
+    {
+      "hook_type": "shocking claim",
+      "tone": [
+        "informative",
+        "provocative",
+        "inquisitive"
+      ],
+      "sentence_rhythm": "fast-paced with short, punchy clauses for impact followed by explanatory sentences",
+      "transitions": [
+        "contrast",
+        "causal",
+        "illustrative",
+        "contrast"
+      ],
+      "rhetorical_devices": [
+        "rhetorical question",
+        "illustration",
+        "contrast"
+      ],
+      "explanation_style": "context-driven with cultural and statistical evidence",
+      "structure": [
+        "hook",
+        "reaction contrast",
+        "cultural context",
+        "examples",
+        "statistical evidence",
+        "broader implication",
+        "audience engagement question"
+      ],
+      "ending_type": "rhetorical question",
+      "summary": "Uses a startling technological claim as an initial hook to explore a cultural phenomenon in China, integrating statistical data and personal anecdotes to explain the business opportunity and psychological appeal, culminating in an open question to prompt reader reflection.",
+      "script_id": 80
+    },
+    {
+      "hook_type": "product release with comparative claim",
+      "tone": [
+        "neutral",
+        "analytical",
+        "slightly skeptical"
+      ],
+      "sentence_rhythm": "direct and concise",
+      "transitions": [
+        "enumeration",
+        "contrast",
+        "speculative inference"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "analogy",
+        "implication",
+        "metaphor"
+      ],
+      "explanation_style": "feature-focused with practical benefits",
+      "structure": [
+        "introduction",
+        "feature enumeration",
+        "drawback",
+        "strategic context",
+        "conclusion"
+      ],
+      "ending_type": "reflective conclusion with strategic implication",
+      "summary": "Analysis of Anthropic's Opus 4.7 release, highlighting its four major upgrades, a token cost drawback, and the strategic context of its naming relative to an advanced but inaccessible model.",
+      "script_id": 81
+    },
+    {
+      "hook_type": "problem-based hook",
+      "tone": [
+        "conversational",
+        "practical",
+        "urgently persuasive"
+      ],
+      "sentence_rhythm": "short and direct sentences with occasional longer explanatory sentences for context",
+      "transitions": [
+        "contrast",
+        "sequential problem-solution introduction",
+        "problem-solution pivot",
+        "concluding remark"
+      ],
+      "rhetorical_devices": [
+        "anecdote",
+        "contrast",
+        "example",
+        "problem-solution framing"
+      ],
+      "explanation_style": "user-centric, benefits-driven, minimal technical language",
+      "structure": [
+        "introduction of a relatable problem",
+        "solution presentation",
+        "extension to two additional problems with solutions",
+        "concluding reinforcement"
+      ],
+      "ending_type": "positive call to action with reinforcing statement",
+      "summary": "A conversational, user-focused narrative addressing multiple summer service challenges with practical solutions, structured in a problem-solution flow and ending with an encouraging statement.",
+      "script_id": 82
+    },
+    {
+      "hook_type": "result-driven",
+      "tone": [
+        "enthusiastic",
+        "informative",
+        "conversational"
+      ],
+      "sentence_rhythm": "Short, punchy sentences with occasional technical detail for clarity",
+      "transitions": [
+        "causal",
+        "contrast",
+        "emphatic",
+        "sequential"
+      ],
+      "rhetorical_devices": [
+        "specific example",
+        "contrast"
+      ],
+      "explanation_style": "practical, step-by-step explanation with concrete examples",
+      "structure": [
+        "problem-solution",
+        "with caveats",
+        "audience-targeted conclusion"
+      ],
+      "ending_type": "targeted benefit statement with contextual justification",
+      "summary": "The transcript opens with a successful outcome to attract attention, then details an open-source job application tool's features, emphasizes its adaptive skill assessment, and concludes with a targeted benefit for job seekers in a competitive market.",
+      "script_id": 83
+    },
+    {
+      "hook_type": "quick transformation hook",
+      "tone": [
+        "enthusiastic",
+        "persuasive",
+        "product-focused"
+      ],
+      "sentence_rhythm": "short and direct with fast pace",
+      "transitions": [
+        "step-by-step instruction",
+        "specification introduction",
+        "bonus feature",
+        "cost contrast",
+        "value comparison"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "value proposition",
+        "comparative example"
+      ],
+      "explanation_style": "user-focused, step-by-step, benefit-oriented",
+      "structure": [
+        "hook",
+        "origin",
+        "installation steps",
+        "key features",
+        "bonus feature",
+        "price comparison"
+      ],
+      "ending_type": "value-focused conclusion",
+      "summary": "Enthusiastic, step-by-step explanation of a product that transforms cycling into electric with minimal setup, emphasizing ease of use and cost value for daily commutes.",
+      "script_id": 84
+    },
+    {
+      "hook_type": "solution-focused",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "confident"
+      ],
+      "sentence_rhythm": "short and direct with occasional complex sentences for process details",
+      "transitions": [
+        "step-by-step explanation",
+        "contrast",
+        "additive",
+        "causality"
+      ],
+      "rhetorical_devices": [
+        "repetition",
+        "parallel structure",
+        "contrast",
+        "emphatic phrasing"
+      ],
+      "explanation_style": "step-by-step, jargon-free, benefit-oriented",
+      "structure": [
+        "hook",
+        "process explanation",
+        "benefit elaboration",
+        "caveat with reassurance",
+        "call to action"
+      ],
+      "ending_type": "call-to-action with limited-time offer",
+      "summary": "Conversational and enthusiastic writing that simplifies a complex AI workflow into a user-friendly process, emphasizing time savings and low cost, ending with a compelling incentive to act immediately.",
+      "script_id": 85
+    },
+    {
+      "hook_type": "Intriguing technical hack with immediate benefit",
+      "tone": [
+        "conversational",
+        "direct",
+        "tech-savvy",
+        "confident"
+      ],
+      "sentence_rhythm": "Short, punchy sentences with technical steps in compound clauses",
+      "transitions": [
+        "cause-effect",
+        "step-by-step instruction",
+        "contextual significance",
+        "limitation introduction",
+        "additional factor",
+        "cause-effect",
+        "counterpoint"
+      ],
+      "rhetorical_devices": [
+        "examples",
+        "contrast",
+        "slang for emphasis",
+        "specific illustrations"
+      ],
+      "explanation_style": "Practical, step-by-step with concrete examples and clear trade-offs",
+      "structure": [
+        "Hook",
+        "Benefits",
+        "Implementation steps",
+        "Context and significance",
+        "Caveats and limitations",
+        "Conclusion"
+      ],
+      "ending_type": "Concise takeaway with practical implication",
+      "summary": "Conversational technical writing that presents a minimal LLM mode for token efficiency, using direct steps and trade-off analysis to end with a universal insight on LLM verbosity.",
+      "script_id": 86
+    },
+    {
+      "hook_type": "visual demonstration followed by solution claim",
+      "tone": [
+        "direct",
+        "conversational",
+        "energetic",
+        "practical"
+      ],
+      "sentence_rhythm": "short, imperative sentences with explanatory clauses",
+      "transitions": [
+        "but",
+        "so",
+        "step one",
+        "step two",
+        "step three",
+        "step four",
+        "now"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "anecdote",
+        "problem-solution",
+        "repetition",
+        "direct address"
+      ],
+      "explanation_style": "practical, step-by-step with concrete examples and cause-effect reasoning",
+      "structure": [
+        "hook demonstration with solution",
+        "step-by-step process with explanations",
+        "conclusion with call to action"
+      ],
+      "ending_type": "call to action with empowerment",
+      "summary": "Conversational guide that hooks with a demonstrated result, then provides a specific 4-step process to avoid common AI generation pitfalls using practical examples and direct address to the audience.",
+      "script_id": 87
+    },
+    {
+      "hook_type": "Immediate value proposition with free feature",
+      "tone": [
+        "Urgent",
+        "Energetic",
+        "Persuasive",
+        "Conversational"
+      ],
+      "sentence_rhythm": "Short, active sentences with strategic pauses for impact",
+      "transitions": [
+        "But",
+        "Plus",
+        "Last year",
+        "This year"
+      ],
+      "rhetorical_devices": [
+        "Feature enumeration",
+        "Cost contrast",
+        "Temporal comparison",
+        "Hyperbolic conclusion"
+      ],
+      "explanation_style": "Benefit-focused with minimal technical detail, step-by-step for core feature",
+      "structure": [
+        "Hook with free opportunity",
+        "Step-by-step demonstration",
+        "Expanded features list",
+        "Offer mechanics",
+        "Historical context",
+        "Big-picture benefit"
+      ],
+      "ending_type": "Hyperbolic payoff emphasizing cost efficiency",
+      "summary": "High-energy promotional writing that quickly establishes a free offer, details actionable features, leverages historical context to build credibility, and concludes with a strong value proposition that reduces long-term costs.",
+      "script_id": 88
+    },
+    {
+      "hook_type": "problem-consequence",
+      "tone": [
+        "urgent",
+        "technical",
+        "alarming"
+      ],
+      "sentence_rhythm": "short and punchy",
+      "transitions": [
+        "contrast",
+        "cause",
+        "additive"
+      ],
+      "rhetorical_devices": [
+        "anecdote",
+        "specific examples",
+        "hyperbole",
+        "vivid imagery"
+      ],
+      "explanation_style": "evidence-driven narrative",
+      "structure": [
+        "problem-intro",
+        "evidence",
+        "climax",
+        "conclusion"
+      ],
+      "ending_type": "definitive conclusion",
+      "summary": "Urgent technical narrative with evidence-driven progression and vivid examples, concluding with a conditional release.",
+      "script_id": 89
+    },
+    {
+      "hook_type": "unexpected innovation announcement",
+      "tone": [
+        "enthusiastic",
+        "conversational",
+        "practical"
+      ],
+      "sentence_rhythm": "short, rapid, and direct with occasional elaborative sentences",
+      "transitions": [
+        "contrastive",
+        "sequential",
+        "causal",
+        "illustrative"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "specific example",
+        "analogy",
+        "call to action"
+      ],
+      "explanation_style": "concrete, step-by-step with real-world illustrations",
+      "structure": [
+        "hook",
+        "feature demonstration",
+        "real-world case study",
+        "technical simplicity",
+        "benefit elaboration",
+        "call to action"
+      ],
+      "ending_type": "direct call to action",
+      "summary": "Enthusiastic, conversational tech communication emphasizing practical implementation through concrete examples and minimal jargon, structured to showcase innovation with immediate real-world relevance and a clear action-oriented conclusion.",
+      "script_id": 90
+    },
+    {
+      "hook_type": "statistic-driven",
+      "tone": [
+        "assertive",
+        "conversational",
+        "urgent"
+      ],
+      "sentence_rhythm": "rapid, short clauses with minimal punctuation",
+      "transitions": [
+        "consequence",
+        "condition",
+        "contrast"
+      ],
+      "rhetorical_devices": [
+        "hyperbole",
+        "metaphor",
+        "contrast"
+      ],
+      "explanation_style": "direct, practical, cause-effect",
+      "structure": [
+        "problem-solution",
+        "linear progression"
+      ],
+      "ending_type": "pragmatic caveat",
+      "summary": "Direct, urgent style using a startling statistic to hook readers, with short sentences and clear cause-effect relationships, ending with a realistic note about proving oneself.",
+      "script_id": 91
+    },
+    {
+      "hook_type": "surprising claim",
+      "tone": [
+        "conversational",
+        "informative",
+        "enthusiastic"
+      ],
+      "sentence_rhythm": "short and punchy sentences with occasional longer explanatory clauses",
+      "transitions": [
+        "temporal",
+        "example",
+        "result",
+        "sequential",
+        "additive"
+      ],
+      "rhetorical_devices": [
+        "analogy",
+        "examples"
+      ],
+      "explanation_style": "narrative explanation with step-by-step experimental results",
+      "structure": [
+        "experiential narrative",
+        "cause-effect"
+      ],
+      "ending_type": "conclusion",
+      "summary": "Conversational narrative style using short, punchy sentences and concrete examples to explain AI emotion research through a sequence of experiments, ending with a clear conclusion.",
+      "script_id": 92
+    },
+    {
+      "hook_type": "Direct challenge to decision-making without experimentation",
+      "tone": [
+        "conversational",
+        "urgent",
+        "practical"
+      ],
+      "sentence_rhythm": "Short, assertive sentences with rhythmic repetition and rhetorical questions",
+      "transitions": [
+        "contrast",
+        "cause-effect",
+        "rhetorical question"
+      ],
+      "rhetorical_devices": [
+        "metaphor",
+        "rhetorical question",
+        "repetition"
+      ],
+      "explanation_style": "Problem-focused explanation with practical solution and temporal rationale",
+      "structure": [
+        "problem-solution",
+        "problem-background-solution"
+      ],
+      "ending_type": "Action-oriented conclusion",
+      "summary": "Conversational, urgent advice using a short-term experiment period to address career uncertainty, structured with problem identification and actionable steps.",
+      "script_id": 93
+    },
+    {
+      "hook_type": "Analogy introduction from business context",
+      "tone": [
+        "Conversational",
+        "Practical",
+        "Analytical"
+      ],
+      "sentence_rhythm": "Short, direct sentences with a purposeful pace",
+      "transitions": [
+        "Example-driven progression",
+        "Conditional comparisons"
+      ],
+      "rhetorical_devices": [
+        "Analogical reasoning",
+        "Concrete illustrations",
+        "Repetitive emphasis"
+      ],
+      "explanation_style": "Direct and example-focused",
+      "structure": [
+        "Concept introduction",
+        "Definition with examples",
+        "Implication statement"
+      ],
+      "ending_type": "Emphatic conclusion",
+      "summary": "The writing style uses a conversational tone to explain decision reversibility through a simple analogy, illustrated with tangible examples, and concludes with a strong emphasis on the inherent difficulty of irreversible actions.",
+      "script_id": 94
+    },
+    {
+      "hook_type": "breaking_news",
+      "tone": [
+        "confident",
+        "assertive",
+        "urgent"
+      ],
+      "sentence_rhythm": "short and punchy with occasional medium-length sentences",
+      "transitions": [
+        "causal",
+        "contrast",
+        "concluding"
+      ],
+      "rhetorical_devices": [
+        "contrast",
+        "repetition",
+        "metaphor"
+      ],
+      "explanation_style": "factual and concise with concrete examples",
+      "structure": [
+        "news_reporting",
+        "implication_focused"
+      ],
+      "ending_type": "fragmented_open_ended",
+      "summary": "Uses a direct news hook to present an acquisition event, then employs specific data and examples to argue that targeted audience relevance trumps scale in the AI era, ending with a fragmented contrast between quantity and quality.",
+      "script_id": 95
+    },
+    {
+      "hook_type": "Provocative contrast statement",
+      "tone": [
+        "Conversational",
+        "Direct",
+        "Assertive",
+        "Urgent"
+      ],
+      "sentence_rhythm": "Short, punchy sentences with rhythmic repetition for emphasis",
+      "transitions": [
+        "Contrast",
+        "Progressive elaboration",
+        "Reinforcement"
+      ],
+      "rhetorical_devices": [
+        "Repetition",
+        "Metaphor",
+        "Direct address",
+        "Parallel structure"
+      ],
+      "explanation_style": "Concrete examples with progressive abstraction",
+      "structure": [
+        "Hook",
+        "Engagement question",
+        "Concept introduction",
+        "Shift identification",
+        "Past-present contrast",
+        "Accountability statement"
+      ],
+      "ending_type": "Strong, emphatic conclusion with repeated assertion of responsibility",
+      "summary": "Conversational, direct style using short sentences and repetition to emphasize the shift from software execution to human accountability in AI-driven development.",
+      "script_id": 96
+    },
+    {
+      "hook_type": "product launch with strong superiority claim",
+      "tone": [
+        "energetic",
+        "persuasive",
+        "confident"
+      ],
+      "sentence_rhythm": "short, punchy sentences with clear breaks between numbered features",
+      "transitions": [
+        "numbered list progression",
+        "transition phrase 'Now'"
+      ],
+      "rhetorical_devices": [
+        "enumeration",
+        "comparative claim",
+        "specific examples",
+        "direct address"
+      ],
+      "explanation_style": "concise, benefit-focused, and action-oriented",
+      "structure": [
+        "hook with product launch claim",
+        "list of five concrete use cases with brief explanations",
+        "call to action"
+      ],
+      "ending_type": "direct call to action",
+      "summary": "High-energy marketing copy that quickly lists five concrete use cases for a new video model, emphasizing user benefits and ending with a clear call to action.",
+      "script_id": 97
+    },
+    {
+      "hook_type": "problem statement",
+      "tone": [
+        "conversational",
+        "urgent",
+        "cautious"
+      ],
+      "sentence_rhythm": "short and direct",
+      "transitions": [
+        "contrast",
+        "consequence",
+        "addition"
+      ],
+      "rhetorical_devices": [
+        "anecdote",
+        "contrast",
+        "repetition"
+      ],
+      "explanation_style": "anecdotal with step-by-step contrast",
+      "structure": [
+        "problem-solution",
+        "narrative flow"
+      ],
+      "ending_type": "strong concluding statement",
+      "summary": "Conversational explanation of freelance risk through a relatable example, contrasting with traditional jobs, ending with a direct warning about risk transfer.",
+      "script_id": 98
+    },
+    {
+      "hook_type": "event-driven",
+      "tone": [
+        "journalistic",
+        "optimistic",
+        "pragmatic"
+      ],
+      "sentence_rhythm": "complex-to-concise",
+      "transitions": [
+        "contrast",
+        "causal",
+        "additive"
+      ],
+      "rhetorical_devices": [
+        "hyperbole",
+        "allusion",
+        "contrast"
+      ],
+      "explanation_style": "factual with purpose clarification",
+      "structure": [
+        "event-introduction",
+        "technical-details",
+        "purpose-clarification",
+        "forward-looking"
+      ],
+      "ending_type": "hopeful-truncated",
+      "summary": "Journalistic style with event-driven hook, technical context, purpose clarification, and truncated optimism.",
+      "script_id": 99
+    },
+    {
+      "hook_type": "urgency hook",
+      "tone": [
+        "urgent",
+        "technical",
+        "authoritative",
+        "direct"
+      ],
+      "sentence_rhythm": "rapid and imperative with technical precision",
+      "transitions": [
+        "contrast",
+        "problem-solution"
+      ],
+      "rhetorical_devices": [
+        "imperative",
+        "contrast",
+        "specificity"
+      ],
+      "explanation_style": "concise step-by-step technical explanation",
+      "structure": [
+        "problem-solution",
+        "step-by-step"
+      ],
+      "ending_type": "call to action",
+      "summary": "Urgent technical writing style using short, imperative sentences to guide immediate action through a problem-solution structure.",
+      "script_id": 100
+    }
+  ]
+}

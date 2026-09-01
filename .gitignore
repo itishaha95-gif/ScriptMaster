@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.key
+
+# Generated output
+scriptmaster_local_output.json
+scriptmaster_evaluation.json
+streamlit_evaluation.json
+evaluation_v2.json
+outputs/
+
+# Embedding index
+*.npz
+
+# Source/private corpus
+data/raw/
+data_for_semantic_analysis.jsonl
+semantic_style_analysis_local.jsonl
+
+# Optional derived corpus text
+data/processed/chunks.jsonl
