@@ -169,9 +169,9 @@ The LLM score is treated as a heuristic, not objective ground truth.
 
 ### ScriptMaster Interface
 
-![ScriptMaster UI](screenshots/scriptmaster-ui.png)
+![ScriptMaster UI](screenshotsscriptmaster-ui.png.png)
 
 ### Generated Script
 
-![ScriptMaster Result](screenshots/scriptmaster-result.png)
+![ScriptMaster Result](screenshotsscriptmaster-result.png.png)
 
